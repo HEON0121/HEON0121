@@ -1,6 +1,6 @@
 <!-- # Welcome to EveryOne👋 -->
 <div align="center">
-<p><h1>Hi there👋</h1></p>
+<p><h1>About</h1></p>
 </div>
 <!-- **HEON0121/HEON0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -24,11 +24,13 @@ Here are some ideas to get you started:
   I'm interested in Server-side Programming.🙈<br/>
   🔥<b>My goal is develop my skills without rushing.<b/>🔥 <br/><br/>  
   <br/> -->
-  Hi there 👋 <br/>
-  my name is Kim Seheon and I'm junior Web Developer who worked in Korea until recently and I'm in Australia now<br/>
-  My main skills are JAVA and Spring & SpringBoot Framework <br/>
-  I always eager to learn and try to find and make up for what I lack in myfield <br/>  
-  There is so much to know and so much to learn in web development, but I am enjoying the process! Thank you 
+  About me <br/>
+  I am a full stack web developer with 2 years of experience in fast-paced work environments. <br/>
+  Having worked as teams in major coporations in South Korea, I have gained invaluable expertise in RDB SQL, Spring and SpringBoot frameworks, as well as basic frontend skills including HTML, CSS, and JavaScript. <br/> 
+  I also have experience with other technologies such as jQuery, Bootstrap, MyBatis and JPA, MSA architecture, and Apache Kafka.<br/> 
+ 
+During my work at Hyundai e-commerce and LG Telecommunications Company, I have contributed to the successful completion of various projects, developing robust and scalable software solutions.
+  
 </p>
 
 <br/>
