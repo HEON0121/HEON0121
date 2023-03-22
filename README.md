@@ -1,16 +1,8 @@
 <!-- # Welcome to EveryOne👋 -->
 <div align="center">
-<p><h1>About</h1></p>
+<p><h1>About me</h1></p>
 </div>
 <!-- **HEON0121/HEON0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 07.2020 ~ 07.2022 in SOUTH KOREA
-- 🌱 I’m currently learning ... React.js / React Hooks / Flutter
-- 🤔 I’m looking for help with ... finding a IT job in Australia
-- 💬 Ask me about ... whatever you want
-- 📫 How to reach me: ... 0426916073 / seheon.emma@gmail.com
 
 <p>
 <!-- 이메일 -->
