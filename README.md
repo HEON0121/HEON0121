@@ -48,7 +48,7 @@ During my work at Hyundai e-commerce and LG Telecommunications Company, I have c
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&amp;logo=SpringSecurity&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Android&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Android&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>  -->
   <br/>
 </p>
