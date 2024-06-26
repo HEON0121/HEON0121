@@ -6,7 +6,7 @@
 
 <p>
 <!-- 이메일 -->
-<a href="mailto:seheon.emma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seheon.emma@gmail.com.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:seheon0121@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seheon0121@gmail.com.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!-- introduce -->
