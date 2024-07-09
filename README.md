@@ -19,7 +19,7 @@
   About me <br/>
   I am a full stack web developer with 2 years of experience in fast-paced work environments. <br/>
   Having worked as teams in major coporations in South Korea, I have gained invaluable expertise in RDB SQL, Spring and SpringBoot frameworks, as well as basic frontend skills including HTML, CSS, and JavaScript. <br/> 
-  I also have experience with other technologies such as jQuery, Bootstrap, MyBatis and JPA, MSA architecture, and Apache Kafka.<br/> 
+  I also have experience with other technologies such as ReactJs, Bootstrap, MyBatis and JPA, MSA architecture, and Apache Kafka.<br/> 
  
 During my work at Hyundai e-commerce and LG Telecommunications Company, I have contributed to the successful completion of various projects, developing robust and scalable software solutions.
   
